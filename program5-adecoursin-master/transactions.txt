@@ -1,0 +1,8 @@
+3
+Lyle School of Engineering
+Cox School of Business
+Dedman School of Law
+1 2 150
+2 1 125
+3 1 30
+2 3 220
